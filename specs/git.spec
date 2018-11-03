@@ -90,6 +90,7 @@ Release:                1%{?rcrev}%{?dist}
 Summary:                Fast Version Control System
 License:                GPLv2
 URL:                    https://git-scm.com/
+
 Source0:                https://www.kernel.org/pub/software/scm/git/%{?rcrev:testing/}%{name}-%{version}%{?rcrev}.tar.xz
 Source1:                https://www.kernel.org/pub/software/scm/git/%{?rcrev:testing/}%{name}-%{version}%{?rcrev}.tar.sign
 
